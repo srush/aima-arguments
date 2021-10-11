@@ -1,6 +1,6 @@
-# AI: A Modern Approach
+# AI: A Modern Approach?
 
-In a fit of annoyance, I wrote a troll post about AI: A Modern Approach. 
+In a fit of frustration, I wrote a troll post about AI: A Modern Approach. 
 
 https://twitter.com/srush_nlp/status/1446469104894873613
 

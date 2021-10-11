@@ -43,3 +43,7 @@ It led to a very interesting set of reactions. Here is a brief bibliography of t
 
 * Cambridge Handbook of AI:  http://www.cambridge.org/9780521871426
 
+### Camp X -> Arguments about Rigor are really important and we should have more of them
+
+* Ali Rahimi's Test of Time Talk: https://www.youtube.com/watch?v=Qi1Yry33TQE
+
